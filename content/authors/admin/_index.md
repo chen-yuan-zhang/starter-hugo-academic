@@ -35,13 +35,13 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: The University of Melbourne
-      year: 2012
+      year: 2020 - 
     - course: Master in Information Technology
       institution: The University of Melbourne
-      year: 2009
-    - course: BSc in Cognitive Psychology
+      year: 2018 - 2019
+    - course: BSc in Cognitive Psychology (major) and Statistics (minor)
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2010 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
