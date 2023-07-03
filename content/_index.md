@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Chenyuan Zhang
       image:
         filename: hero-academic.png
       cta:
