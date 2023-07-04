@@ -19,18 +19,18 @@ sections:
           description: 100%
           icon: python
           icon_pack: fab
-        - name: Statistics
+        - name: R
           description: 90%
-          icon: chart-line
-          icon_pack: fas
-        - name: Statistics
+          icon: r-project
+          icon_pack: fab
+        - name: Matlab
           description: 90%
-          icon: chart-line
-          icon_pack: fas
-        - name: 
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: matlab
+          icon_pack: fab
+        - name: Latex
+          description: 90%
+          icon: latex
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
