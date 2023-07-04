@@ -26,7 +26,7 @@ sections:
         - name: neuroimaging
           description: 90%
           icon: brain-circuit
-          icon_pack: fab
+          icon_pack: fas
         - name: Latex
           description: 90%
           icon: latex
