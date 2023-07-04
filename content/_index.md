@@ -15,15 +15,19 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Python
+          description: 100%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: 90%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Statistics
+          description: 90%
+          icon: chart-line
+          icon_pack: fas
+        - name: 
           description: 10%
           icon: camera-retro
           icon_pack: fas
