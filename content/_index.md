@@ -189,7 +189,7 @@ sections:
       title: Contact
 
       # Contact (add or remove contact options as necessary)
-      email: &#8238;chenyuanz(at)student(dot)unimelb(dot)edu(dot)au
+      email: chenyuanz(at)student(dot)unimelb(dot)edu(dot)au
 
       # Automatically link email and phone or display as text?
       autolink: true
