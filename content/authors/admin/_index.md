@@ -36,7 +36,7 @@ education:
     - course: PhD in Artificial Intelligence
       institution: The University of Melbourne
       year: 2020 - 
-    - course: Master in Information Technology - High Distinction (WAM: 88/100)
+    - course: Master in Information Technology  High Distinction (WAM: 88/100)
       institution: The University of Melbourne
       year: 2018 - 2019
     - course: BSc in Cognitive Psychology (major) and Statistics (minor)
