@@ -11,26 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: 100%
-          icon: python
-          icon_pack: fab
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: neuroimaging
-          description: 90%
-          icon: brain-circuit
-          icon_pack: fas
-        - name: Latex
-          description: 90%
-          icon: latex
-          icon_pack: fab
   - block: experience
     content:
       title: Experience
