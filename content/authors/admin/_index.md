@@ -51,21 +51,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://cis.unimelb.edu.au/people/students/chenyuan-zhang
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/chen-yuan-zhang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/chenyuan-zhang-0097751a4/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Chenyuan Zhang is a PhD student of artificial intelligence at the AI and Autonomy Lab in the University of Melbourne. His research interests include automated planning, computational cognitive modelling and nature language processing. 
+Chenyuan Zhang is a PhD student of artificial intelligence at the AI and Autonomy Lab in the University of Melbourne. His research interests include automated planning, computational cognitive modelling and nature language processing. He is nearing the completion of his PhD and is actively seeking postdoctoral or researcher opportunities in Australia.
 {style="text-align: justify;"}
