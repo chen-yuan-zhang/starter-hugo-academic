@@ -40,7 +40,7 @@ education:
       institution: The University of Melbourne
       year: 2018 - 2019
     - course: BSc in Cognitive Psychology (major) and Statistics (minor)
-      institution: Massachusetts Institute of Technology
+      institution: Peking University
       year: 2010 - 2015
 
 # Social/Academic Networking
