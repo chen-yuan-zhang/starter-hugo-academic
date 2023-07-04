@@ -23,9 +23,9 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Matlab
+        - name: neuroimaging
           description: 90%
-          icon: matlab
+          icon: brain-circuit
           icon_pack: fab
         - name: Latex
           description: 90%
