@@ -187,6 +187,7 @@ sections:
     id: contact
     content:
       title: Contact
+      text: If you want to contact me, please use the email address below directly.
 
       # Contact (add or remove contact options as necessary)
       email: chenyuanz(at)student(dot)unimelb(dot)edu(dot)au
