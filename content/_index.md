@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Experience
+      title: Research Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -23,19 +23,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: PhD student
+          company: The University of Melbourne
+          company_url: 'https://www.unimelb.edu.au/'
+          company_logo: 
+          location: Melbourne
+          date_start: '2020-02-10'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Successfully published two papers in top-tier conferences as first author. The first paper, titled "Goal Recognition with Timing Information," was accepted by the International Conference on Automated Planning and Scheduling (ICAPS23), and it proposes a novel approach to goal recognition in complex environments. The second paper, titled "Comparing AI Planning Algorithms with Human Performance on the Tower of London Task," was accepted by the Annual Meeting of the Cognitive Science Society (CogSci23), and it evaluates the performance of AI planners relative to human participants on a well-known problem-solving task Tower of London.
+              * Presented research findings at academic conferences. Specifically, presented "Using General AI Planner to Understand Human Problem-Solving on Tower of London" at the Australia Math Psychology Conference 2021 and "Human Replanning Behaviour on Tower of London" at the Australia Math Psychology Conference 2023.
+              * Proficient in several programming languages, including C++, Python, Julia, and others, for research purposes. Designed and developed the Planning Domain Definition Language (PDDL) domains for various problem-solving tasks, such as the Tower of London and Travelling Salesman Problem. Implemented five classical planners and two novel human-like online planners based on Tarski and LAPKT framework.
+              * Developed web applications to run online human experiments using JavaScript + HTML. Launched the experiments on Google Cloud, and performed data analysis using various statistical methods such as T-test and Linear Mixed Models, with R and Python.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
